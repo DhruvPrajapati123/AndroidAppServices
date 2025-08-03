@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IPCUsingMessgengerTwoWay</string>
+    <string name="bind">Bind</string>
+    <string name="unbind">Unbind</string>
+    <string name="not_attached">Not attached.</string>
+    <string name="attached">Attached.</string>
+    <string name="binding">Binding.</string>
+    <string name="unbinding">Unbinding.</string>
+    <string name="remote_service_connected">Remote service  connected</string>
+    <string name="disconnected">Disconnected.</string>
+    <string name="remote_service_disconnected">Remote service disconnected</string>
+</resources>
